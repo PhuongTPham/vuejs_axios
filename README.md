@@ -1,2 +1,4 @@
-# vuejs_axios
-#Vuejs #axios #API:https://jsonplaceholder.typicode.com/
+#axios
+#Vuejs
+#API: https://jsonplaceholder.typicode.com/
+
